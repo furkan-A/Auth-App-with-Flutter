@@ -2,13 +2,12 @@
 
 A new Flutter project.
 <p>
-    <p>
+    <p> Sign-Up Screen
         <img align="left" src="https://github.com/furkan-A/Auth-App-with-Flutter/blob/main/assets/images/signup.png" alt="Sign Up" width="40%" />
     </p>
-
-    Home Page
-    ![Home Page](https://github.com/furkan-A/Auth-App-with-Flutter/blob/main/assets/images/homepage.png)
-
+    <p> Home Page
+        <img align="left" src="https://github.com/furkan-A/Auth-App-with-Flutter/blob/main/assets/images/homepage.png" alt="Home Page" width="40%" />
+    </p>
 </p>
 
 
