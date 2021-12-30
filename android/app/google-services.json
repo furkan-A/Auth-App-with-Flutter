@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "778771507013",
+    "project_id": "wingding-production",
+    "storage_bucket": "wingding-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778771507013:android:2ebd2d4150ba708bd3802c",
+        "android_client_info": {
+          "package_name": "com.wingding.wingdingapp.prod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778771507013-b191l3u1lsd6qru5fdi8mcd6s2o6vmbs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wingding.wingdingapp.prod",
+            "certificate_hash": "1e19ca4dba757416945627aa7794cba5b1c8bdb7"
+          }
+        },
+        {
+          "client_id": "778771507013-bmaqd0avk0lkgp6842secnpkscaojtqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wingding.wingdingapp.prod",
+            "certificate_hash": "b614694bc4527195015dbcc5e601211511111520"
+          }
+        },
+        {
+          "client_id": "778771507013-ra643tpfsssrbalihp9qt43kpt8fipfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wingding.wingdingapp.prod",
+            "certificate_hash": "b36a3f2d0b98c2711372f7de980aada594c1d33a"
+          }
+        },
+        {
+          "client_id": "778771507013-rh7i44h0evn1ad28fevltf6e24dgdgd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wingding.wingdingapp.prod",
+            "certificate_hash": "3646d05396c4cb5e0cb302f00704194826777815"
+          }
+        },
+        {
+          "client_id": "778771507013-7f7qq0isvnqbqfvafr6aeu4fchgdm3ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyNMrk1Xi801hH5-uGwMeRzXcw7rS-bb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778771507013-7f7qq0isvnqbqfvafr6aeu4fchgdm3ij.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778771507013-1mabj2okrle8oijsfneuu2mimubusu5a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wingding.wingdingapp.prod"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
