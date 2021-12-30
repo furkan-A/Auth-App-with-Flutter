@@ -1,12 +1,13 @@
 # flutter_dev_challenge
 
 A new Flutter project.
-<p align="left" width= "50%">
-Sign-Up Screen
-![Sign-Up](https://github.com/furkan-A/Auth-App-with-Flutter/blob/main/assets/images/signup.png)
+<p>
+    <p>
+        <img align="left" src="https://github.com/furkan-A/Auth-App-with-Flutter/blob/main/assets/images/signup.png" alt="Sign Up" width="40%" />
+    </p>
 
-Home Page
-![Home Page](https://github.com/furkan-A/Auth-App-with-Flutter/blob/main/assets/images/homepage.png)
+    Home Page
+    ![Home Page](https://github.com/furkan-A/Auth-App-with-Flutter/blob/main/assets/images/homepage.png)
 
 </p>
 
